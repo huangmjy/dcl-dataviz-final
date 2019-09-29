@@ -14,8 +14,8 @@ library(plotly)
 
 # Parameters
   # Data filepaths
-pooled_data_fp <- "../../../../c01data/Reardon/reardon_data_semipooled.csv"
-change_data_fp <- "../../../../c01data/Reardon/reardon_data_change.csv"
+pooled_data_fp <- "../../c01data/Reardon/reardon_data_semipooled.csv"
+change_data_fp <- "../../c01data/Reardon/reardon_data_change.csv"
 
 # Helper Functions
 y_lab_fn <- function(yval) {
